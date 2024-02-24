@@ -1,0 +1,63 @@
+{
+    margin'0;
+    padding 0;
+    
+/* }
+.container{
+    position: absolute;
+    width: auto;
+    display: block;
+
+
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    left: 50%;
+    transform: translate(=50%,=50%); */
+
+
+}
+h1 h6{
+    text-align: center;
+
+}
+button{
+    text-align: center
+    backgroundcolour blue
+    border-radius: 55%
+
+
+}
+/* {
+    ::-ms-backdrop
+    jscoi base
+    ::-ms-backdrop
+} */
+p{
+    text-align: center;
+
+}
+ul,li{
+    font-size: 85px;
+
+}
+img{
+    background: fixed;
+}
+div.container2{
+    background-color: aqua;
+    font-size: 50px;
+    text-align: center;
+
+}
+button.hover{
+    color: red;
+}
+
+button{
+    justify-content:center-align;
+
+
+}
